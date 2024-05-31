@@ -21,11 +21,12 @@ body {
   background: green;
   color: white;
   font-weight: bold;
+  font-size: 20px;
 } 
 
-.button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
+.cancel {
+  background-color: rgb(254, 255, 254);
+  color: rgb(0, 10, 10);
   font-size: 20px;
 }
 
@@ -35,8 +36,8 @@ body {
   font-size: 14px;
 }
 
-div.text {
+div .text {
   color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
+  font-size: 14px;
+  font-weight: 800px;
 }
